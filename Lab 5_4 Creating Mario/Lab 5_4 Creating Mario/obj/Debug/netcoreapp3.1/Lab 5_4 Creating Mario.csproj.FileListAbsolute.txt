@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\bin\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_4 Creating Mario\Lab 5_4 Creating Mario\obj\Debug\netcoreapp3.1\Lab 5_4 Creating Mario.genruntimeconfig.cache

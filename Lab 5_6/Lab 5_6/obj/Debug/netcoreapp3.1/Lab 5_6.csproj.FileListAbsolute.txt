@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\bin\Debug\netcoreapp3.1\Lab 5_6.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 5_6\Lab 5_6\obj\Debug\netcoreapp3.1\Lab 5_6.genruntimeconfig.cache
