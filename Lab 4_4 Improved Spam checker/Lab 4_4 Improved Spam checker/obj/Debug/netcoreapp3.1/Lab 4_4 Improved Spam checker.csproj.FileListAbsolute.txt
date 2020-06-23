@@ -1,0 +1,4 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 4_4 Improved Spam checker\Lab 4_4 Improved Spam checker\obj\Debug\netcoreapp3.1\Lab 4_4 Improved Spam checker.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 4_4 Improved Spam checker\Lab 4_4 Improved Spam checker\obj\Debug\netcoreapp3.1\Lab 4_4 Improved Spam checker.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 4_4 Improved Spam checker\Lab 4_4 Improved Spam checker\obj\Debug\netcoreapp3.1\Lab 4_4 Improved Spam checker.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 4_4 Improved Spam checker\Lab 4_4 Improved Spam checker\obj\Debug\netcoreapp3.1\Lab 4_4 Improved Spam checker.csproj.CoreCompileInputs.cache
