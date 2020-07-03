@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\bin\Debug\netcoreapp3.1\Lab 7_4 Dating Game.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 7_4 Dating Game\Lab 7_4 Dating Game\obj\Debug\netcoreapp3.1\Lab 7_4 Dating Game.genruntimeconfig.cache
