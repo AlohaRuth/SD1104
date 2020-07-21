@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\bin\Debug\netcoreapp3.1\Lab_10_4.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab_10_4\Lab_10_4\obj\Debug\netcoreapp3.1\Lab_10_4.genruntimeconfig.cache
