@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\bin\Debug\netcoreapp3.1\Lab9_4HTML.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab9_4HTML\Lab9_4HTML\obj\Debug\netcoreapp3.1\Lab9_4HTML.genruntimeconfig.cache

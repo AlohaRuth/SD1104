@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab 8_5 Reality Tv Star!/1.0.0": {
+        "runtime": {
+          "Lab 8_5 Reality Tv Star!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 8_5 Reality Tv Star!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

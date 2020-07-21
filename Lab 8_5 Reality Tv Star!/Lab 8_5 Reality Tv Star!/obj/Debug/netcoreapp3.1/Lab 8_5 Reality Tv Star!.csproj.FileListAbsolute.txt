@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.exe
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.deps.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\bin\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.dll
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.pdb
+C:\Users\ACT-Student\Documents\Web&Appcourse\SD1104\All labs\SD1104\Lab 8_5 Reality Tv Star!\Lab 8_5 Reality Tv Star!\obj\Debug\netcoreapp3.1\Lab 8_5 Reality Tv Star!.genruntimeconfig.cache
